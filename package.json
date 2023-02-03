@@ -1,0 +1,17 @@
+{
+  "name": "edgeless-wiki-vitepress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "tslib": "^2.5.0",
+    "typescript": "^4.9.5",
+    "vitepress": "^1.0.0-alpha.45",
+    "vue": "^3.2.47"
+  },
+  "scripts": {
+    "dev":"vitepress dev docs",
+    "build":"vitepress build docs"
+  }
+}
