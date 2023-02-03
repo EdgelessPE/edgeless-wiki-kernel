@@ -2,16 +2,22 @@
   "name": "edgeless-wiki-vitepress",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+  "license": "MPL-2.0",
   "devDependencies": {
+    "flexsearch": "^0.7.31",
+    "markdown-it": "^13.0.1",
     "ts-node": "^10.9.1",
     "tslib": "^2.5.0",
     "typescript": "^4.9.5",
     "vitepress": "^1.0.0-alpha.45",
+    "vitepress-plugin-search": "^1.0.4-alpha.19",
     "vue": "^3.2.47"
   },
   "scripts": {
-    "dev":"vitepress dev docs",
-    "build":"vitepress build docs"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs"
+  },
+  "dependencies": {
+    "vite": "^4.1.1"
   }
 }

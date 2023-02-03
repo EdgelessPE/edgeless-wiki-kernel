@@ -14,7 +14,7 @@ const config = {
     docsRepo: "https://github.com/EdgelessPE/edgeless-wiki-kernel",
     docsBranch: "master",
     editLink: {
-      pattern: 'https://github.com/EdgelessPE/edgeless-wiki-kernel/edit/master/docs/:path',
+      pattern: 'https://github.com/EdgelessPE/edgeless-wiki-kernel/edit/main/docs/:path',
       text:"在 GitHub 上编辑此页"
     },
     docsDir: "docs",
