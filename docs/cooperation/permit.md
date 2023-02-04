@@ -90,7 +90,7 @@ Edgeless 的全款授权期限通常以 年（Year） 为单位计算，当授�
 
 ## 授权保障
 
-Edgeless 团队使用 VitePress 发布 Wiki，源码仓库公开托管在[Gitee](https://gitee.com/cnotech/edgeless-wiki-vuepress)和[GitHub](https://github.com/EdgelessPE/edgeless-wiki-kernel)，使用全球知名的 git 版本管理器管理文本内容的发布并提供公证证明授权信息的更新与更改，欢迎业内外人士的监督。
+Edgeless 团队使用 VitePress 发布 Wiki，源码仓库公开托管在 [Gitee](https://gitee.com/cnotech/edgeless-wiki-vuepress) 和 [GitHub](https://github.com/EdgelessPE/edgeless-wiki-kernel)，使用全球知名的 git 版本管理器管理文本内容的发布并提供公证证明授权信息的更新与更改，欢迎业内外人士的监督。
 
 ## 纠纷申明
 
