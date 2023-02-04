@@ -9,7 +9,8 @@
 1. 目前 Edgeless 的插件包使用授权 _对非营利性非商业项目免费开放使用_ ，但是我们需要对开发者的资质进行认证，并且需要协助 Edgeless 团队进行开发工作，认证通过并由开发者同意条件后开发者的项目才会成为 Edgeless 官方认可的授权项目。
 2. 对于非商业盈利项目或商业项目，Edgeless 的授权可能需要收取一些费用。但是如果项目团队可以对 Edgeless 本体的发展或运行提供一些帮助，我们可以考虑减少费用甚至免费授权。
 3. 由于很多主题资源包的相关内容得到了对应内容作者的正版授权且授权范围一般都局限于 Edgeless 和 FirPE，我们暂不开放主题资源包的使用，避免引起不必要的版权纠纷。
-4. 由于[“shadow PE”事件](blacklist.md)，我们决定开放 Edgeless 内核的修改授权，但是不遵守授权条款的作品依然会受到我们的侵权追究
+4. 由于[“shadow PE”事件](blacklist.md)，我们决定开放 Edgeless 内核的修改授权，但是不遵守授权条款的作品依然会受到我们的侵权追究。
+5. 特别声明，任何人以包括侧载（sideloading）、模块化等方式使项目具有了支持 Edgeless 相关功能的能力均视为该项目使用了 Edgeless 的相关功能，需要该项目负责人洽谈授权事宜；Edgeless 授权不具有继承性，已获取授权项目的子项目需要重新获得授权。
    <br/>
 
 ## 授权形式
@@ -89,7 +90,7 @@ Edgeless 的全款授权期限通常以 年（Year） 为单位计算，当授�
 
 ## 授权保障
 
-Edgeless 团队使用 VuePress 发布 Wiki，源码仓库公开托管在[Gitee](https://www.gitee.com)，使用全球知名的 git 版本管理器管理文本内容的发布并提供公证证明授权信息的更新与更改，欢迎业内外人士的监督。
+Edgeless 团队使用 VitePress 发布 Wiki，源码仓库公开托管在[Gitee](https://gitee.com/cnotech/edgeless-wiki-vuepress)和[GitHub](https://github.com/EdgelessPE/edgeless-wiki-kernel)，使用全球知名的 git 版本管理器管理文本内容的发布并提供公证证明授权信息的更新与更改，欢迎业内外人士的监督。
 
 ## 纠纷申明
 
