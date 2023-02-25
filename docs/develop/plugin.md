@@ -217,10 +217,9 @@ exec =!%ProgramFiles%\Edgeless\Internet Download Manager\!绿化.bat
 ![](https://horatio.cn/images/plugin114514.png)
 
 :::tip 提醒
-完成插件包的制作后不要忘记在实际情景中测试哦
+完成插件包的制作后不要忘记在Edgeless中测试哦
 :::
 
-
 :::warning 看完了还是一脸懵逼？
-去下载站下一个插件包拆开看看吧
+去[下载站](https://zfile.edgeless.top/插件包)下一个插件包拆开看看吧
 :::
