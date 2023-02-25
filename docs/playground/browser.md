@@ -3,6 +3,7 @@
 
 :::tip 提示
 Opera精简版插件包的Profiles文件夹在%appdata%内，需要在完成修改后手动把里面文件拷回Opera64_v12\Opera64文件夹内
+
 [Edgeless Hub](https://down.edgeless.top/)现已支持设置浏览器主页与固定浏览器到任务栏,更改浏览器首页无需手动修改插件包
 ![](https://horatio.cn/edgeless/wiki/images/browser-2.png)
 :::
