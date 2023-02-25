@@ -20,7 +20,7 @@
 ### 准备材料
 1. 微信官方版本安装包
 2. VMware Workstation
-3. Edgeless暴力封装专用虚拟机镜像（[百度网盘: 5km5](https://pan.baidu.com/s/1ohmM4XpESyu7YnNN2u63hg), [菠萝盘](https://my-file.cn/s/vJdpFx), [Onedrive](https://735f1109-my.sharepoint.com/:f:/g/personal/dongxiaotian_735f1109_onmicrosoft_com/EqrDMxdHclVHhBNf8usiNeMBgYjQxkYS5TH_f4NO6FYAAA)）
+3. Edgeless暴力封装专用虚拟机镜像（[百度网盘: 5km5](https://pan.baidu.com/s/1ohmM4XpESyu7YnNN2u63hg), [Onedrive](https://735f1109-my.sharepoint.com/:f:/g/personal/dongxiaotian_735f1109_onmicrosoft_com/EqrDMxdHclVHhBNf8usiNeMBgYjQxkYS5TH_f4NO6FYAAA)）
 
 :::tip 虚拟机镜像文件sha1
 Edgeless暴力封装专用虚拟机.part1.rar：59B98D301C63B9C513A9DFBFB428B43591181513
