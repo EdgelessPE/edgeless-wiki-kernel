@@ -1,5 +1,7 @@
 # 启动盘制作失败
+:::tip 提示
 由于Edgeless Hub依赖于Ventoy制作启动盘，如果您遇到了问题请查看[Ventoy2Disk FAQ](https://ventoy.net/cn/doc_ventoy2disk.html)
+:::
 
 ## 尝试以下步骤：
 - 在写入Ventoy时取消勾选“安全启动支持”或修改分区类型为“GPT”

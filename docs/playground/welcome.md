@@ -1,12 +1,22 @@
 # 开机欢迎音乐
 
-利用“千千静听”插件包实现开机自动播放音乐
-
-> 灵感来自内测群成员 @吾\__兮_，希望大家能利用好插件包这个功能
-
-:::tip 2019-11-28 加注
-我们上架了“开机音乐”插件包，内含修改帮助，更加容易修改！
+## 利用`开机音乐`插件包
+:::tip
+灵感来自内测群成员 @吾\__兮_，希望大家能利用好插件包这个功能
 :::
+
+1. 下载[开机音乐](https://zfile.edgeless.top/d/%E6%8F%92%E4%BB%B6%E5%8C%85/%E7%BE%8E%E5%8C%96%E5%A2%9E%E5%BC%BA/%E5%BC%80%E6%9C%BA%E9%9F%B3%E4%B9%90_1.1.0.0_Cno.7z?sign=fGGSksOw19FFhkL_qcEd_O6DN7oJG4E1EZBggWrvD6Q=:0)插件包并解压，得到`bootWave`文件夹和`bootWave.cmd`外置批处理
+
+2. 将音频文件放到`bootWave`文件夹内替换`win7.mp3`
+
+3. 返回上级目录的`bootWave.cmd`文件将第二行的`win7.mp3`换成自定义音频文件的文件名
+
+4. 保存`bootWave.cmd`，将`bootWave`文件夹和`bootWave`文件夹和`bootWave.cmd`外置批处理压缩回 7z 文件
+
+6. 启动 Edgeless 进行测试
+
+
+## 利用`千千静听`插件包（不推荐）
 
 1. 下载“千千静听”插件包并解压，得到`TTPlayer`（文件夹）和`TTPlayer7.10Plus.cmd`（外置批处理）
    ![](https://pineapple.edgeless.top/picbed/wiki/images/picture1_1561395662946.png)
