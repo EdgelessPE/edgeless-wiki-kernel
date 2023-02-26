@@ -2,8 +2,6 @@
 
 主仓库 [![star this repo](https://img.shields.io/github/stars/EdgelessPE/Edgeless.svg?style=social)](https://github.com/EdgelessPE/Edgeless)
 
-ept -命令行管理插件包 [![star this repo](https://img.shields.io/github/stars/EdgelessPE/ept.svg?style=social)](https://github.com/EdgelessPE/ept)
-
 Edgeless Hub -🚀 Edgeless 聚合桌面客户端 [![star this repo](https://img.shields.io/github/stars/EdgelessPE/edgeless-hub.svg?style=social)](https://github.com/EdgelessPE/edgeless-hub)
 
 Edgeless Bot -🤖 每日检查上游更新并自动构建插件包 [![star this repo](https://img.shields.io/github/stars/EdgelessPE/edgeless-bot.svg?style=social)](https://github.com/EdgelessPE/edgeless-bot)
