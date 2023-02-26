@@ -2,7 +2,7 @@
 
 :::warning 注意
 
-Edgeless 内测邀请码[答题]([Edgeless-获取内测](https://home.edgeless.top/jump/qqg.html))即可获得，官方没有`售卖`内测邀请码的行为,请勿上当受骗
+Edgeless 内测邀请码可通过[回答问卷](https://home.edgeless.top/jump/qqg.html)自助获得，不需要支付任何费用，谨防上当受骗
 
 :::
 
