@@ -142,6 +142,7 @@ function getGuideSidebar() {
         { text: "HopePE", link: "/cooperation/HopePE" },
         { text: "HiPE", link: "/cooperation/HiPE" },
         { text: "ComPE", link: "/cooperation/ComPE" },
+        { text: "斯宏信息", link: "/cooperation/斯宏信息" },
       ],
     },
     // {
