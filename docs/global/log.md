@@ -38,7 +38,7 @@ Edgeless Hub 停止维护告示
 4. 优化aria2c配置
 
 ## Edgeless核心更新日志（当前已发布最新Beta版本：{{edgeless_beta}}）
-4.1.1版本更新
+4.1.1 - 4.1.2版本更新
 
 功能/架构更新：
 
