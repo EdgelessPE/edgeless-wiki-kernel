@@ -1,11 +1,5 @@
 # **写在前面**
 
-:::warning 注意
-
-Edgeless 内测邀请码可通过[回答问卷](https://home.edgeless.top/jump/qqg.html)自助获得，不需要支付任何费用，谨防上当受骗
-
-:::
-
 ::: tip 前言
 随着 Edgeless 的用户数量增多，一些问题也渐渐地被各位使用者提了出来。然而其中大部分属于用户操作问题或是Edgeless携带的工具故障，与Edgeless本身相关的问题大多已经在文档中描述过。
 
