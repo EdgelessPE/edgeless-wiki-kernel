@@ -1,7 +1,7 @@
 # Edgeless 分支项目
 官方分支项目列表：
 
-* Edgeless CE - [https://github.com/slqwqxd/Edgeless-Ce](https://github.com/slqwqxd/Edgeless-Ce)
+* Edgeless-CE - [https://github.com/slqwqxd/Edgeless-CE](https://github.com/slqwqxd/Edgeless-CE)
 
 ### 授权期限：永久
 ### 授权形式：免费
