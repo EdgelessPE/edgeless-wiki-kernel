@@ -44,6 +44,10 @@ Edgeless Hub 停止维护告示
 
 1. 使用了 Windows 11 22H2 作为母盘构建，没有引入新特性但是可能引入了一堆由于新母盘引起的问题，例如没有声音等，仅建议作为尝鲜使用。
 
+:::tip
+[修复声音问题方法](https://github.com/EdgelessPE/Edgeless/issues/50)
+:::
+
 4.1.0版本更新
 
 :::tip
