@@ -138,7 +138,7 @@ function getGuideSidebar() {
         { text: "51NB PE", link: "/cooperation/51NBPE" },
         { text: "Samarium", link: "/cooperation/Samarium" },
         { text: "HotPE", link: "/cooperation/HotPE" },
-        { text: "萝卜头PE", link: "/cooperation/萝卜头PE" },
+        { text: "萝卜PE", link: "/cooperation/萝卜PE" },
         { text: "HopePE", link: "/cooperation/HopePE" },
         { text: "HiPE", link: "/cooperation/HiPE" },
         { text: "ComPE", link: "/cooperation/ComPE" },
