@@ -2,6 +2,14 @@
 
 ## 2023年
 
+### 2023年末清算：
+
+截至2024.01.02的12：00，Edgeless项目在2023年总计收到捐助531.85 CNY，根据Edgeless团队的捐助条款，超出服务器和域名支出（260 CNY）部分的20%会捐赠给Wimbuilder2作者slore，slore的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的TypeScript脚本，截图如下：
+
+![](https://pineapple.edgeless.top/picbed/wiki/img/2023d1.png)
+
+![](https://pineapple.edgeless.top/picbed/wiki/img/2023d2.png)
+
 | 称呼 | 数额     | 日期       | 备注                              |
 | ---- | -------- | ---------- | --------------------------------- |
 | *鑫 | ￥ 100.00 | 2023.12.26 |                                  |
