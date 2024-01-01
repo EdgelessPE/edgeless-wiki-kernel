@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MPL-2.0",
   "devDependencies": {
+    "@types/node": "^20.10.6",
     "flexsearch": "^0.7.31",
     "markdown-it": "^13.0.1",
     "ts-node": "^10.9.1",
@@ -15,7 +16,8 @@
   },
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs"
+    "build": "vitepress build docs",
+    "count": "ts-node scripts/count.ts"
   },
   "dependencies": {
     "vite": "^4.1.1"
