@@ -405,19 +405,19 @@ BUG修复：
       },
       methods:{
          getEdgeless(){
-            fetch("https://pineapple.edgeless.top/api/v2/info/iso_version").then((res)=>{
+            fetch("https://legacy.edgeless.top/api/v2/info/iso_version").then((res)=>{
                res.text().then((ver)=>{
                   this.edgeless_beta=ver
                })
             })
 
-            fetch("https://pineapple.edgeless.top/api/v2/alpha/data?token=そうだよ").then((res)=>{
+            fetch("https://legacy.edgeless.top/api/v2/alpha/data?token=そうだよ").then((res)=>{
                res.json().then((json)=>{
                   this.edgeless_alpha=json.version
                })
             })
     
-            fetch("https://pineapple.edgeless.top/api/v2/info/hub_version").then((res)=>{
+            fetch("https://legacy.edgeless.top/api/v2/info/hub_version").then((res)=>{
                res.text().then((ver)=>{
                   this.hub_beta=ver
                })
