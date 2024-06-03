@@ -2,7 +2,7 @@
 
 ## 下载地址
 
-[Edgeless 主题包抓取套件](https://horatio.cn/edgeless/wiki/%E4%B8%BB%E9%A2%98%E5%8C%85%E6%8A%93%E5%8F%96%E5%A5%97%E4%BB%B6_1.3.0.0.7z)
+[Edgeless 主题包抓取套件](https://zfile.edgeless.top/Socket/Misc)
 
 ## 抓取系统图标
 
