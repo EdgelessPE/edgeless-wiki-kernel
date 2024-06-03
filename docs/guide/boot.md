@@ -10,4 +10,4 @@
 
 我们修改并转存了一份来自 360急救盘 的引导介绍页面并进行了修改
 
-<iframe src="https://horatio.cn/edgeless/guide/" height="1080" width="1920" frameborder="0" scrolling="0" ></iframe>
+<iframe src="https://home.edgeless.top/guide/" height="1080" width="1920" frameborder="0" scrolling="0" ></iframe>

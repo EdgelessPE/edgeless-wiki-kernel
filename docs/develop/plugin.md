@@ -181,16 +181,16 @@ HOTK #121,%ProgramFiles%\Edgeless\Orderdrv\orderdrv.cmd        `F10 理顺盘符
 ## 开发案例
 首先，网上冲浪找到了优化版Internet Download Manager，执行Step1，发现可直接运行。
 
-![](https://horatio.cn/images/plugin114.png)
+![](https://cloud.edgeless.top/picbed/wiki/browser/plugin114.png)
 
 
 接下来，执行Step2。将内容进行精简，顺便替换自带图标（可选）。
 
-![](https://horatio.cn/images/plugin1145.png)
+![](https://cloud.edgeless.top/picbed/wiki/browser/plugin1145.png)
 
 返回上级目录，编写外置批处理xxx.wcs
 
-![](https://horatio.cn/images/plugin11451.png)
+![](https://cloud.edgeless.top/picbed/wiki/browser/plugin11451.png)
 其中
 
 ```
@@ -214,7 +214,7 @@ exec =!%ProgramFiles%\Edgeless\Internet Download Manager\!绿化.bat
 
 将Internet Download Manager.wcs和Internet Download Manager文件夹压缩为7z并按照`名称_版本号_打包者.7z` 命名，即可完成Internet Download Manager插件包的制作
 
-![](https://horatio.cn/images/plugin114514.png)
+![](https://cloud.edgeless.top/picbed/wiki/browser/plugin114514.png)
 
 :::tip 提醒
 完成插件包的制作后不要忘记在Edgeless中测试哦
