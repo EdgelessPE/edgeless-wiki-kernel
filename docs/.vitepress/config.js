@@ -3,10 +3,10 @@
  */
 const config = {
   base: "/v2/",
-  title:"Edgeless Wiki",
+  title: "Edgeless Wiki",
   description: "强大而优雅的半开源PE工具",
   head: [
-    ['link', { rel: 'icon', href: 'https://home.edgeless.top/favicon.ico' }]
+    ["link", { rel: "icon", href: "https://home.edgeless.top/favicon.ico" }],
   ],
   outDir: "dist",
   themeConfig: {
@@ -14,8 +14,9 @@ const config = {
     docsRepo: "https://github.com/EdgelessPE/edgeless-wiki-kernel",
     docsBranch: "master",
     editLink: {
-      pattern: 'https://github.com/EdgelessPE/edgeless-wiki-kernel/edit/main/docs/:path',
-      text:"在 GitHub 上编辑此页"
+      pattern:
+        "https://github.com/EdgelessPE/edgeless-wiki-kernel/edit/main/docs/:path",
+      text: "在 GitHub 上编辑此页",
     },
     docsDir: "docs",
     lastUpdated: "最近更新于",
@@ -26,9 +27,9 @@ const config = {
     ],
     sidebar: getGuideSidebar(),
     footer: {
-      message: 'MPL-2.0 Licensed | Rendered by VitePress',
-      copyright: 'Copyright © 2019-2023 Cno'
-    }
+      message: "MPL-2.0 Licensed | Rendered by VitePress",
+      copyright: "Copyright © 2019-2023 Cno",
+    },
   },
 };
 
@@ -144,6 +145,7 @@ function getGuideSidebar() {
         { text: "ComPE", link: "/cooperation/ComPE" },
         { text: "斯宏信息", link: "/cooperation/斯宏信息" },
         { text: "Glass PE", link: "/cooperation/GlassPE" },
+        { text: "潇然PE", link: "/cooperation/潇然PE" },
       ],
     },
     // {
@@ -153,7 +155,7 @@ function getGuideSidebar() {
     //     { text: "官方文案", link: "/media/material" },
     //   ],
     // },
-  ]
+  ];
 }
 
 export default config;
