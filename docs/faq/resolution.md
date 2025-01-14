@@ -4,7 +4,7 @@
 
 ## 获取
 
-<a href="https://legacy.edgeless.top/api/v2/info/ventoy_plugin_addr" class="button button-primary button-rounded button-small" target="_blank">点击下载</a>
+<a href="https://legacy.edgeless.top/api/v2/info/ventoy_plugin_addr" class="button button-primary button-rounded button-small" style="color: white" target="_blank">点击下载</a>
 
 ## 替换
 
