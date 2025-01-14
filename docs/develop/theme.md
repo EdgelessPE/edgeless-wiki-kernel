@@ -196,8 +196,8 @@ ren "Person Select.*" "aero_person.*"
 `REG EXPORT HKEY_CURRENT_USER\Software\StartIsBack X:\Users\Default\Desktop\StartIsBackConfig.reg`
 导出StartIsBack的注册表信息到桌面
 3. 使用[五大提供的转换工具](http://blog.sina.com.cn/s/blog_6fd804fe0102wq8v.html)将此reg文件转换为wcs脚本，并整理脚本中的语句（**执行前取消所有复选框，执行后删除开头处多余的非REGI开头的语句**）
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1576919291277.png)
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1576919343581.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1576919291277.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1576919343581.png)
 4. 确定好主题的基本基调（浅色/深色），并在转换得到的`StartIsBackConfig.reg.wcs`中添加以下语句
 
 
@@ -239,64 +239,64 @@ Intro.wcs允许创建窗口界面进行一些自定义设置，其需要用到�
 >此资源包的开发可以使用[主题包抓取套件](grab.md)
 
 1. 提取出System32目录下的imageres.dll和imagesp1.dll。但是由于此处没有提供imagesp1.dll，因此我们使用Edgeless内提取的imagesp1.dll代替
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580102877663.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580102877663.png)
 2. 将imageres.dll和imagesp1.dll压缩为7z压缩包
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580103028898.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580103028898.png)
 3. 将文件重命名为SystemIconPack.ess，保存备用
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580103081919.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580103081919.png)
 
 ## 图标资源包
 1. 找到桌面快捷方式图标文件（.ico）的存放位置，将其收集
 2. 参考Edgeless桌面的快捷方式名称将其依次重命名。
 
 **所有的图标包必须包含这六个快捷方式的图标！**
-![sc](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580103753175.png)
+![sc](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580103753175.png)
 
 3. 如果需要为插件包快捷方式适配图标，**参考相应插件包创建的快捷方式名称为其适配图标即可**。如果不方便载入插件查看，可以通过插件包的外置批处理为其适配图标。
 >此处讲解如何在不方便加载插件包的情况下查看插件创建的快捷方式名称，以Copur开发的Chrome插件包为例
 >1. 下载Google 80.0.3976.0718417_Copur.7z并打开
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580103538783.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580103538783.png)
 >2. 查看外置批处理（.cmd或.wcs，此处为chrome.wcs）中创建桌面快捷方式的命令，获得对桌面创建的快捷方式名称
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580105453077.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580105453077.png)
 4. 将所有应用于快捷方式的图标放置在`shortcut`文件夹内，将`shortcut`文件夹压缩为7z压缩包
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580105584872.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580105584872.png)
 5. 将文件重命名为IconPack.eis，保存备用
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580105645520.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580105645520.png)
 
 ## 鼠标样式资源包
 >此资源包的开发可以使用[主题包抓取套件](grab.md)
 
 1. 找到光标样式文件的存放位置，提取所有光标样式文件
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580105745092.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580105745092.png)
 2. 如果光标样式文件命名不符合规则，请使用上方的`旧版规范快速转换批处理`进行转换。此处提取的文件符合命名规范，直接压缩为7z压缩包即可
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580105921522.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580105921522.png)
 >`旧版规范快速转换批处理`使用方法
 >1. 新建一个文本文件，将上方的`旧版规范快速转换批处理`内容复制进去，重命名为`转换.cmd`
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580106066399.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580106066399.png)
 >2. 将`转换.cmd`移动到光标样式文件的存放位置并运行即可完成转换
 
 3. 将文件重命名为MouseStyle.ems，保存备用
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580106220855.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580106220855.png)
 
 ## LoadScreen资源包
 1. 找到启动界面图片的存放位置（具体位置请查看pecmd.ini的logo命令，此处启动界面与默认壁纸位置相同），提取并转换为jpg格式（此处已经是jpg格式）
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580106357823.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580106357823.png)
 2. 将图片命名为load0.jpg并压缩
 >注意：此处制作的LoadScreen资源包为静态版本，全程只有一张图片。Edgeless LoadScreen资源包提供了最多三张图片的切换能力并且对应了三个加载点，可以自由发挥。详情见上方`典型开发步骤`
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580106582450.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580106582450.png)
 3. 将文件重命名为LoadScreen.els，保存备用
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580106632418.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580106632418.png)
 
 ## 开始菜单样式配置文件
 0. 如果希望自己调整开始菜单样式，请在Edgeless内执行`开始菜单-Edgeless设置-开始菜单设置`进行调整之后再执行以下步骤
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580107285194.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580107285194.png)
 1. 运行cmd，并执行命令`REG EXPORT HKEY_CURRENT_USER\Software\StartIsBack X:\Users\Default\Desktop\StartIsBackConfig.reg` 
 此命令仅限在使用了StartIsBack作为开始菜单的PE环境中运行
 3. 使用[五大提供的转换工具](https://cno.lanzous.com/icrlcah)将此reg文件转换为wcs脚本，并整理脚本中的语句（**执行前取消所有复选框，执行后删除开头处多余的非REGI开头的语句**）
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1576919291277.png)
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1576919343581.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1576919291277.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1576919343581.png)
 ##### 4、确定好主题的基本基调（浅色/深色），并在转换得到的`StartIsBackConfig.reg.wcs`中添加以下语句。
 
 **如果不添加可能导致用户在多次应用主题包或开始菜单样式配置文件后开始菜单和/或资源管理器主题显示失常**
@@ -315,25 +315,25 @@ REGI #HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize\\SystemU
 //修改应用主题为深色（可以让资源管理器进入深色主题）：
 REGI #HKCU\Software\Microsoft\Windows\CurrentVersion\Themes\Personalize\\AppsUseLightTheme=0
 ```
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580127405628.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580127405628.png)
 5. 将`StartIsBackConfig.reg.wcs`脚本重命名为StartIsBackConfig.esc，保存备用
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580107695280.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580107695280.png)
 
 ## 壁纸图片
 1. 找到壁纸存放位置，提取壁纸图片并转换为jpg格式（此处已经是jpg格式）
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580106357823.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580106357823.png)
 2. 将壁纸图片重命名为WallPaper.jpg，保存备用
 
 ## 主题简介
 1. 新建文本文档填写简介内容。**注意需要使用GB2313编码**
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580107970750.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580107970750.png)
 2. 将此文本文档重命名为Intro.txt，保存备用
 3. 如果想开发主题控制面板Intro.wcs，请参考上方的`典型开发步骤`
 
 ## 打包整合
 1. 将上述文件压缩为7z压缩包
- ![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580108162661.png)
+ ![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580108162661.png)
 2. 将文件按照`名称_版本号_制作人.eth`的格式重命名，例如此处将其命名为FirPE Experience_1.0.0.0_Cno.eth
 :::warning 注意
 由于资源包安装程序的命名校验代码存在缺陷，如果需要单独制作资源包，则其文件名中不可出现英文括号()

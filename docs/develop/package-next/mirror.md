@@ -51,8 +51,8 @@
         "name":"官方镜像源",
         "sync":true,
         "contract":"1.0",
-        "download":"https://pineapple.edgeless.top/disk/资源包/${category}/${name}",
-        "digest":"https://pineapple.edgeless.top/disk/摘要池/${category}/${name}"
+        "download":"https://cloud.edgeless.top/disk/资源包/${category}/${name}",
+        "digest":"https://cloud.edgeless.top/disk/摘要池/${category}/${name}"
     },
     "categories":["实用工具","开发辅助","配置检测","资源管理","办公编辑","输入法","录屏看图","磁盘数据","安全急救","即时通讯","安装备份","游戏娱乐","运行环境","压缩镜像","美化增强","驱动管理","下载上传","浏览器","影音播放","远程连接"],
     "packages":{

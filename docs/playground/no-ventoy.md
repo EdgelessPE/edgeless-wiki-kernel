@@ -8,4 +8,4 @@
 ## 方案
 使用 [Rufus](https://rufus.ie/zh/) 写入 [Edgeless 镜像](/faq/getiso.md)到 U 盘。可选 `FAT32` 或 `NTFS` 文件系统。
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/rufus.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/rufus.png)

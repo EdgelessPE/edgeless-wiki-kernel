@@ -19,7 +19,7 @@ Edgeless拥有强大的兼容能力，您可以使用已有的PE寄生启动Edge
 建议翻阅宿主PE的使用说明查询或运行这一功能之后查看报错提示来判断（详见倒数第二张图片的界面）
 :::
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/picture3_1561399745392.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/picture3_1561399745392.png)
 
 1. 用WinRAR等压缩软件（或虚拟光驱软件）打开Edgeless的ISO镜像（[如何获得iso镜像](../faq/getiso.md)），**复制“Edgeless”文件夹到U盘根目录**
 
@@ -28,20 +28,20 @@ Edgeless拥有强大的兼容能力，您可以使用已有的PE寄生启动Edge
 漏掉此步骤会导致进入Edgeless后报错！
 :::
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/picture2_1561399806990.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/picture2_1561399806990.png)
 
 
 3. 对U盘根目录内的Edgeless文件夹进行操作，如放置壁纸、添加插件包等
 2. 以Legacy（传统）模式启动优启通
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/IMG_20190625_014946_1561400365782.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/IMG_20190625_014946_1561400365782.jpg)
 
 5. 选择“运行其他工具-运行自定义映像”
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/IMG_20190625_014955.jpg)
-![](https://pineapple.edgeless.top/picbed/wiki/images/IMG_20190625_015003.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/IMG_20190625_014955.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/IMG_20190625_015003.jpg)
 
 6. 选中Edgeless的镜像并回车，启动Edgeless
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/IMG_20190625_015012.jpg)
-![](https://pineapple.edgeless.top/picbed/wiki/images/IMG_20190625_015055.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/IMG_20190625_015012.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/IMG_20190625_015055.jpg)

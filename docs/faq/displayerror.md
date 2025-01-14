@@ -1,7 +1,7 @@
 # 显示器显示分辨率超出范围
 ## 症状表现
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1582818245415.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1582818245415.png)
 
 （图片来自网络）
 

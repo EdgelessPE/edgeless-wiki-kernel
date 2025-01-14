@@ -8,7 +8,7 @@
 
 ## 替换
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/210516.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/210516.png)
 
 <style>
 .button {

@@ -11,4 +11,4 @@
 ## 报告属于 Hub 的问题
 如果 Edgeless Hub 在使用过程中发生了异常，请点击“设置-开发者工具-Devtool”，在右侧将开发者工具切换至 `Console` 选项卡，然后重新进行会导致异常的操作，并截图[提交issue](https://github.com/EdgelessPE/Edgeless/issues)
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/003339.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/003339.jpg)

@@ -1,5 +1,5 @@
 # PE是啥
-![1.jpg](https://pineapple.edgeless.top/picbed/wiki/images/1.jpg)
+![1.jpg](https://cloud.edgeless.top/picbed/wiki/images/1.jpg)
 Windows Preinstallation Environment（Windows PE），Windows预安装环境，是带有有限服务的最小Win32子系统，基于以保护模式运行的Windows XP Professional及以上内核。它包括运行Windows安装程序及脚本、连接网络共享、自动化基本过程以及执行硬件验证所需的最小功能。用于安装、部署和修复 Windows 桌面版（家庭版、专业版、企业版和教育版）、Windows Server 和其他 Windows 操作系统，而Windows PE并非为普通用户可以正常使用的操作系统，多数用于开发人员及维修主系统使用。（来自百度百科）
 
 有点没看懂？

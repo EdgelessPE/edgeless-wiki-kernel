@@ -28,5 +28,5 @@
 
 [不要愚蠢地提出问题](https://github.com/dogfight360/Stop-Ask-Questions-The-Stupid-Ways/blob/master/README.md)
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/you-are-not-prepared.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/you-are-not-prepared.png)
 :::

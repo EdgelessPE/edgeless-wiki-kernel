@@ -20,7 +20,7 @@
 * 一个文件夹（包含目标程序及其需要的文件）
 * 一个.cmd或.wcs脚本（即**外置批处理**，用于执行绿化安装操作）
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/picture13.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/picture13.png)
 
 ## 插件包命名规范
 新上架的插件包名称格式统一为`名称_版本号_打包者.7z`，例如：`我的 绿色软件-测试版_1.0.0.0_卡诺.7z`
@@ -147,7 +147,7 @@ exit
 
 **注意要将外置批处理暴露在压缩包根目录！**
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1579783771844.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783771844.png)
 
 :::warning 注意
 1. 外置批处理被设计为一次性使用的脚本，在完成其使命后将会被移动到“安装程序”文件夹内。因此，请不要依赖外置批处理进行安装（绿化）外的其他操作

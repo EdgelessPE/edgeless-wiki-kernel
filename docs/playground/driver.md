@@ -13,11 +13,11 @@
 
 2. 在当前系统的会话中导出需要为Edgeless安装的驱动到某个空白文件夹中，此处以有线网卡驱动为例
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/011508.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/011508.jpg)
 
 3. [下载驱动插件包模板](https://cno.lanzoui.com/ixSH1roow0h)并解压，删除掉 `myDrivers` 文件夹内的预置文件，然后将导出的驱动放到 `myDrivers` 文件夹内
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/171008.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/171008.png)
 
 :::tip
 支持在子目录中搜索驱动，你可以同时导出多个驱动并放置在 `myDrivers` 文件夹的子目录中
@@ -25,4 +25,4 @@
 
 4. 返回上级目录，将全部文件压缩为插件包，然后启动Edgeless进行测试
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/171043.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/171043.png)

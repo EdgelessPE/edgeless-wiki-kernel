@@ -2,7 +2,7 @@
 ## 症状表现
 * 显示`Invalid signature detected.Check Secure Boot Policy in Setup`
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/0f56970a304e251fd6d0ca55ab86c9177e3.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/0f56970a304e251fd6d0ca55ab86c9177e3.jpg)
 
 （图片来自百度贴吧）
 
@@ -13,12 +13,12 @@
 * 进入PE后蓝屏
 
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/QQpic20190531124822.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20190531124822.jpg)
 
 （图片来自内测群成员@重名 已做涂抹处理）
 
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/QQpic20190531130507.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20190531130507.jpg)
 
 （图片来自内测群成员@Scorpioღ）
 
@@ -34,7 +34,7 @@ Edgeless不是维护用PE，请不要在配置过时的或奇奇怪怪的机器�
 3. Ventoy引导启动失败，参考[启动盘制作失败](fail2burn.md)
 
 4. U盘为劣质产品或者经历了频繁读写出现了物理损坏（比如长期使用NTFS作为U盘分区文件系统）
-![](https://pineapple.edgeless.top/picbed/wiki/images/gos.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/gos.png)
 
 （图片来自内测群成员@F✺K✺B）
 

@@ -2,7 +2,7 @@
 ## 症状表现
 * 没有发现必要组件包
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/nes.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/nes.png)
 
 ## 原因分析
 必要组件包丢失，通常是由于不规范的启动方式导致的，详情可以参考[其他姿势启动](/playground/other.md)

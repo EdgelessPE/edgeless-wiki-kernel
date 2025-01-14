@@ -24,13 +24,13 @@ Edgeless的ISO镜像 [如何获取](../faq/getiso.md)
 * 使用Edgeless的iso镜像作为虚拟光驱（CD/DVD(SATA)）
 * 启动项内包含有“从光驱启动”选项
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/picture21.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/picture21.png)
 
 
 ## 读写虚拟U盘
 运行UltraISO，打开Edgeless的iso镜像
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/picture22.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/picture22.png)
 
 **此时，iso镜像就相当于用户写入Edgeless的U盘。你可以自由编辑iso内的文件**
 >如果您是插件包开发者并且不需要依赖必要组件包中的内容，您可以用一个空的.7z包代替Nes_Inport.7z以加快启动速度

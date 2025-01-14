@@ -34,7 +34,7 @@
 
 在写入 Ventoy 时勾选`配置文件-显示所有设备`，然后按照正常步骤完成制作
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/010154.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/010154.jpg)
 
 
 :::tip 上文没有提到你想要的启动方式？

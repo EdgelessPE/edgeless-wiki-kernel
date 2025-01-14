@@ -20,21 +20,21 @@
 解压从第一个链接下载到的`ventoy-xxx-windows.zip`，运行`Ventoy2Disk.exe`，选中您的目标设备，点击安装
 > 如果您希望安装至移动硬盘，请勾选`配置选项-显示所有设备`
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/145759.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/145759.jpg)
 
 3. 复制文件
 
 在U盘内新建一个`ventoy`文件夹，将从第二个链接下载到的`ventoy_wimboot.img`复制到此文件夹内
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/152202.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/152202.jpg)
 
 使用压缩软件打开或直接双击挂载从第三个链接下载到的`Edgeless_xxxx_xxx.iso`，将其中的`sources/boot.wim`复制到U盘根目录，然后将其重命名为`Edgeless_xxxx_xxx.wim`
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/152504.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/152504.jpg)
 
 再复制其中的`Edgeless`文件夹到U盘根目录
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/152608.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/152608.jpg)
 
 4. 启动测试
 
@@ -44,4 +44,4 @@
 
 从[Edgeless下载站](https://down.edgeless.top)下载插件包，将插件包放置在`U盘:\Edgeless\Resource`目录下即可，之后进入PE时插件会被自动加载
 
-![](https://pineapple.edgeless.top/picbed/wiki/img/010022.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/010022.jpg)

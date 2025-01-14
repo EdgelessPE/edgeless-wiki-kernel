@@ -2,7 +2,7 @@
 ## 症状表现
 启动时右下角提示`正在加载插件包`，之后长时间卡在此页面
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1580481154425.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1580481154425.jpg)
 
 （图片来自内测群成员@th123.exe）
 

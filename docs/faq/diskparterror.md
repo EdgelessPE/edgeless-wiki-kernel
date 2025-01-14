@@ -1,7 +1,7 @@
 ## 仅本地系统识别不了exFAT分区
 
 这个问题困扰了我们很久，终于找到了答案：
-![](https://pineapple.edgeless.top/picbed/wiki/images/QQpic20190615221709.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20190615221709.png)
 
  （图片来自内测群成员@nszxgesx）
 

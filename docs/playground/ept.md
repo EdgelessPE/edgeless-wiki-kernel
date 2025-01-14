@@ -12,11 +12,11 @@ ept 的灵感来源于微软发布的 `winget` 和debian系Linux下的 `apt` ，
 由于此时是第一次使用，程序会自动执行`ept update`更新索引
 :::
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1591520774571.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1591520774571.png)
 
 3. 按下`y`确认安装，程序会自动完成安装过程；如果同时想要将插件保存到启动盘，请改为按`a`
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/screenshot_1591520979325.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1591520979325.png)
 4. 此时桌面上已经出现了微信的快捷方式，插件安装成功
 
 

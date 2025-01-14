@@ -4,11 +4,11 @@
 * 运行Chrome等高内存占用程序时程序崩溃
 * 无法对X分区进行读写或在读写过程中出错
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/QQpic20191221164750.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20191221164750.jpg)
 
 （图片来自内测群成员@ThreeAnd1☆）
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/QQpic20191221164959.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20191221164959.jpg)
 
 （图片来自内测群成员@@汪凯在线）
 

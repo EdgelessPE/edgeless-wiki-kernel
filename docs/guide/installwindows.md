@@ -12,9 +12,9 @@ Edgeless在没有附加插件的情况下支持安装iso/wim/esd/gho等多种格
 
 假设C盘之后有D盘、E盘，那么D盘、E盘可以保留不清空
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/picture1_1564069746769.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/picture1_1564069746769.png)
 
-![](https://pineapple.edgeless.top/picbed/wiki/images/picture2_1564071756150.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/picture2_1564071756150.png)
 
 双击下载得到的ISO镜像会弹出Edgeless的安装系统镜像窗口，点击第一个选项“使用Windows原版安装程序”
 
