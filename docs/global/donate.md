@@ -1,6 +1,20 @@
 # 捐赠列表
 
+## 2025 年
+
+| 称呼   | 数额      | 日期       | 备注                                                                                                                                        |
+| ------ | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| \*\*宁   | ￥ 9.90 | 2025.01.14 | | 
+
 ## 2024 年
+
+### 2024 年末清算：
+
+截至 2024.12.31 的 23：59，Edgeless 项目在 2024 年总计收到捐助 842.8 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20% 会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
+
+![](https://cloud.edgeless.top/picbed/wiki/img/2024d1.jpg)
+
+![](https://cloud.edgeless.top/picbed/wiki/img/2024d2.png)
 
 | 称呼   | 数额      | 日期       | 备注                                                                                                                                        |
 | ------ | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -75,7 +89,7 @@
 
 ### 2023 年末清算：
 
-截至 2023.12.31 的 23：59，Edgeless 项目在 2023 年总计收到捐助 531.85 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20%会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
+截至 2023.12.31 的 23：59，Edgeless 项目在 2023 年总计收到捐助 531.85 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20% 会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
 
 ![](https://cloud.edgeless.top/picbed/wiki/img/2023d1.png)
 
@@ -159,7 +173,7 @@
 
 ### 2022 年末清算：
 
-截至 2022.12.31 的 20：00，Edgeless 项目在 2022 年总计收到捐助 705.59 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20%会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
+截至 2022.12.31 的 20：00，Edgeless 项目在 2022 年总计收到捐助 705.59 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20% 会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
 
 ![](https://cloud.edgeless.top/picbed/wiki/img/2022d2.jpg)
 
@@ -254,7 +268,7 @@
 
 ### 2021 年末清算：
 
-截至 2021.12.31 的 23：38，Edgeless 项目在 2021 年总计收到捐助 1175.18 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20%会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
+截至 2021.12.31 的 23：38，Edgeless 项目在 2021 年总计收到捐助 1175.18 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20% 会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
 
 > 说明：由于 12 月在准备考研，因此捐赠榜单停更了一会，给 slore 捐赠之后想起来有几天的忘记记录了，补录了一下然后补上了差价
 
@@ -362,7 +376,7 @@
 
 ### 2020 年末清算：
 
-截至 2020.12.31 的 23：23，Edgeless 项目总计收到捐助 610.44RMB，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260RMB）部分的 20%会捐赠给 2.x 版本内核作者 2012919497149，20%会捐赠给 3.x 版本内核制作工具提供者 slore，其中 2012919497149 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=376688](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=376688) ，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算和捐赠截图如下：
+截至 2020.12.31 的 23：23，Edgeless 项目总计收到捐助 610.44RMB，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260RMB）部分的 20% 会捐赠给 2.x 版本内核作者 2012919497149，20% 会捐赠给 3.x 版本内核制作工具提供者 slore，其中 2012919497149 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=376688](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=376688) ，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算和捐赠截图如下：
 ![](https://cloud.edgeless.top/picbed/wiki/images/1_1609428798951.jpg)
 ![](https://cloud.edgeless.top/picbed/wiki/images/2.jpg)
 ![](https://cloud.edgeless.top/picbed/wiki/images/3.jpg)
@@ -551,7 +565,7 @@
 Edgeless 非常感谢 slore 提供的 3.x 版本内核和 无忧启动论坛 提供的交流平台，希望能为其提供一些帮助。但是**目前 Edgeless 仍处于入不敷出的阶段**，且团队主开发者和项目维护者（Cno）为 2018 级带学生，**没有稳定收入**。因此暂且做出如下决定：
 
 1. 将 Edgeless 原创的组件作品实现代码 和/或 成品分享到无忧启动论坛，供坛友学习交流，以推动论坛和 PE 制作领域的进步。很抱歉目前没有能力捐赠无忧启动论坛，希望我们提供的无形资产能让无忧做得更好
-2. 如果**当年**Edgeless 的捐赠收入超出了服务器与域名的费用总支出，则将会把**超出部分**收入的 20%捐赠给 slore 大神。此项每年年末（12 月 31 日）结算一次，如当年 Edgeless 的捐赠收入未超出服务器与域名的费用总支出，则不会公示结算结果
+2. 如果**当年**Edgeless 的捐赠收入超出了服务器与域名的费用总支出，则将会把**超出部分**收入的 20% 捐赠给 slore 大神。此项每年年末（12 月 31 日）结算一次，如当年 Edgeless 的捐赠收入未超出服务器与域名的费用总支出，则不会公示结算结果
 
 > Edgeless 每年应预付云服务供应商约 260 元，包括
 >
