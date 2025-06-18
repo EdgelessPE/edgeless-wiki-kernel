@@ -9,7 +9,7 @@
 :::
 
 
-1. 首先**确保本地系统可以正常驱动您的设备**，然后下载[Dism++](http://www.chuyu.me/zh-Hans/)，解压运行Dism++主程序
+1. 首先**确保本地系统可以正常驱动您的设备**，然后下载[Dism++](https://github.com/Chuyu-Team/Dism-Multi-language/releases)，解压运行Dism++主程序
 
 2. 在当前系统的会话中导出需要为Edgeless安装的驱动到某个空白文件夹中，此处以有线网卡驱动为例
 
