@@ -25,13 +25,6 @@
 2. 适配新的 Ventoy 日志解析器
 
 2.27版本更新
-
-:::tip
-Edgeless Hub 停止维护告示
-
-我们非常遗憾地通知各位，由于上游 npm 包更新导致屎山项目 Edgeless Hub 在经过数小时的抢救后依然无法正常编译一个可用的版本，因此我们不得不提前终止对其的更新维护（悲）；我们已经将新版的 Edgeless Hub 开发工作提前提上日程，在此期间 2.27 版本的 Edgeless Hub 依旧能够正常使用，只是我们无力为其提供新的功能更新。
-:::
-
 1. 修复达最大下载数10后aria2迷惑报错以及侧边栏下载数计数错误（感谢 [@undefined](https://github.com/undefined-ux)）
 2. 开发体验优化和部分错别字修改
 3. 修复 HubCache 路径名称重复问题（感谢 [@undefined](https://github.com/undefined-ux)）
