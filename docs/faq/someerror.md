@@ -1,5 +1,9 @@
 # 进入PE后出现异常情况
 ## 症状表现
+* 弹出红色告警弹窗：`警告：没有发现合法的Edgeless文件夹！请尝试重新拔插U盘！`
+
+![](https://cloud.edgeless.top/picbed/wiki/img/red-alert.jpg)
+
 * 提示内存错误（最常见）
 * 运行Chrome等高内存占用程序时程序崩溃
 * 无法对X分区进行读写或在读写过程中出错
@@ -13,9 +17,13 @@
 （图片来自内测群成员@@汪凯在线）
 
 ## 原因分析
-Edgeless运行环境内存太小，或机器的内存存在物理问题，或Edgeless镜像出现损坏
+* 使用了携带较新主控的移动存储设备，内核缺失对应驱动
+* Edgeless运行环境内存太小
+* 机器的内存存在物理问题
+* Edgeless镜像出现损坏
 
 ## 解决方法
+1. 使用内测版（参考 [#77](https://github.com/EdgelessPE/Edgeless/issues/77)）
 1. 适当禁用部分不常用的插件然后重启电脑
 2. 使用Edgeless [LocalBoost](../playground/localboost.md)安装插件
 5. 手动下载、校验ISO镜像后替换U盘中对应的`.wim`文件
