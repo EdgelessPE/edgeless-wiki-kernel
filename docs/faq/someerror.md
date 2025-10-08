@@ -23,7 +23,7 @@
 * Edgeless镜像出现损坏
 
 ## 解决方法
-1. 使用内测版（参考 [#77](https://github.com/EdgelessPE/Edgeless/issues/77)）
+1. 使用内测版（参考 [#20](https://github.com/EdgelessPE/Edgeless/issues/20)）
 1. 适当禁用部分不常用的插件然后重启电脑
 2. 使用Edgeless [LocalBoost](../playground/localboost.md)安装插件
 5. 手动下载、校验ISO镜像后替换U盘中对应的`.wim`文件
