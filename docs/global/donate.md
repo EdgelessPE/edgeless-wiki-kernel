@@ -16,7 +16,7 @@
 
 ![](https://cloud.edgeless.top/picbed/wiki/img/2025d1.jpg)
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2025d2.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/2025d2.jpg)
 
 
 | 称呼   | 数额      | 日期       | 备注                                                                                                                                        |
