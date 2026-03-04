@@ -3,16 +3,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MPL-2.0",
+  "packageManager": "pnpm@10.30.3",
   "devDependencies": {
-    "@types/node": "^20.10.6",
-    "flexsearch": "^0.7.31",
-    "markdown-it": "^13.0.1",
-    "ts-node": "^10.9.1",
-    "tslib": "^2.5.0",
-    "typescript": "^4.9.5",
-    "vitepress": "^1.0.0-alpha.45",
-    "vitepress-plugin-search": "^1.0.4-alpha.19",
-    "vue": "^3.2.47"
+    "@types/node": "^25.3.3",
+    "flexsearch": "^0.7.43",
+    "markdown-it": "^14.1.1",
+    "ts-node": "^10.9.2",
+    "tslib": "^2.8.1",
+    "typescript": "^5.9.3",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-search": "^1.0.4-alpha.22",
+    "vue": "^3.5.29"
   },
   "scripts": {
     "dev": "vitepress dev docs",
@@ -20,7 +21,8 @@
     "count": "ts-node scripts/count.ts"
   },
   "dependencies": {
-    "vite": "^4.1.1"
-  },
-  "packageManager": "yarn@1.22.19"
+    "vite": "^5.4.21",
+    "postcss": "^8",
+    "markdown-it-mathjax3": "^4"
+  }
 }

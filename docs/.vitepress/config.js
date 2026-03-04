@@ -28,7 +28,7 @@ const config = {
     sidebar: getGuideSidebar(),
     footer: {
       message: "MPL-2.0 Licensed | Rendered by VitePress",
-      copyright: "Copyright © 2019-2023 Cno",
+      copyright: `Copyright © 2019-${new Date().getFullYear()} Cno`,
     },
   },
 };
