@@ -16,8 +16,8 @@
 ### Edgeless Hub
 * 使用 Electron 编写的版本【Version:{{hub_beta}} Stage:Beta Author:Cno】
 ### Edgeless主要功能研发
-* LocalBoost™【Version:2.0 State:Working Author:Brzh】
-* 大神码™【Version:Null State:Working Author:Copur】
+* ~~LocalBoost™【Version:2.0 State:Working Author:Brzh】~~
+* ~~大神码™【Version:Null State:Working Author:Copur】~~
 
 
 希望获取内测的用户请[获取内测邀请码](https://home.edgeless.top/?openBetaDrawer=1)
@@ -26,6 +26,10 @@
 
 
 ## Edgeless Hub更新日志（当前已发布最新版本：{{hub_beta}}）
+2.32版本更新
+1. 恭喜屎山项目 Edgeless Hub 打赢复活赛
+2. 修复了 Ventoy 写入后识别的问题
+
 2.28版本更新
 1. 更新官方人员名单
 2. 适配新的 Ventoy 日志解析器
