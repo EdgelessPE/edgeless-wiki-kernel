@@ -55,6 +55,6 @@
 
 ![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1584629428509.png)
 
-7. 如果在写入过程中出现了问题，请[加入内测群](https://home.edgeless.top/jump/qqg.html)并提交`Log.txt`进行反馈（如果您进行了重试，请一并提交`Log_backup.txt`）
+7. 如果在写入过程中出现了问题，请[加入内测群](https://home.edgeless.top/?openBetaDrawer=1)并提交`Log.txt`进行反馈（如果您进行了重试，请一并提交`Log_backup.txt`）
 
 ![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1584629646552.png)

@@ -21,7 +21,7 @@
 
 ### 非自助授权
 
-除了内核修改授权外的其他所有授权均为非自助授权，请[加入 QQ 群](https://home.edgeless.top/jump/qqg.html)联系我们获取授权，并由我们起草授权条款
+除了内核修改授权外的其他所有授权均为非自助授权，请[加入 QQ 群](https://home.edgeless.top/?openBetaDrawer=1)联系我们获取授权，并由我们起草授权条款
 
 ### 自助授权
 

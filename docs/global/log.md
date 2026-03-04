@@ -14,7 +14,7 @@
 * 大神码™【Version:Null State:Working Author:Copur】
 
 
-希望获取内测的用户请[获取内测邀请码](https://home.edgeless.top/jump/qqg.html)
+希望获取内测的用户请[获取内测邀请码](https://home.edgeless.top/?openBetaDrawer=1)
 
 希望合作进行开发的开发者请先加入内测交流群，确认合作之后会邀请进开发群
 

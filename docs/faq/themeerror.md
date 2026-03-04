@@ -1,7 +1,7 @@
 # 使用主题资源包时出错
 由于主题资源包刚刚面世不久，我们没有过多的FAQ内容提供
 
-唯一解决BUG的方法是[加入内测交流QQ群](https://home.edgeless.top/jump/qqg.html)向我们反馈问题
+唯一解决BUG的方法是[加入内测交流QQ群](https://home.edgeless.top/?openBetaDrawer=1)向我们反馈问题
 
 推荐阅读：[如何有效地报告错误](report.md)
 

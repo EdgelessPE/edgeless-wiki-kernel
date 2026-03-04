@@ -7,7 +7,7 @@
 :::
 
 :::tip 分享你的劳动成果
-如果您希望能上架您的主题包/资源包，请[加入内测交流QQ群](https://home.edgeless.top/jump/qqg.html)进行提交
+如果您希望能上架您的主题包/资源包，请[加入内测交流QQ群](https://home.edgeless.top/?openBetaDrawer=1)进行提交
 :::
 
 ## 获取Edgeless合作伙伴的资源
