@@ -30,7 +30,7 @@ Edgeless Hub仅支持Windows10或Windows11 64位系统，如果您不在使用�
 > 下图为手动选择盘符的界面，请**不要**选中卷标为`VTOYEFI`的分区！
 > ![](https://cloud.edgeless.top/picbed/wiki/img/014639.jpg)
 > 如果出现下图这种情况，您可以点击“手动选择”按钮手动选择盘符进入下一步
-> ![](https://i.postimg.cc/MK95pVmz/image.png)    
+> ![](https://cloud.edgeless.top/picbed/wiki/img/burn-select-drive-error.png)
 
 5. 等待程序自动完成Edgeless的部署即可
 ![](https://cloud.edgeless.top/picbed/wiki/img/Cache_-199db6e4970fc3df..jpg)
