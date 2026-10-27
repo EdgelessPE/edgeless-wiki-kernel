@@ -10,6 +10,43 @@ const config = {
   ],
   outDir: "dist",
   themeConfig: {
+    search: {
+      provider: "local",
+      options: {
+        miniSearch: {
+          options: {
+            // Use the same Chinese word segmentation when indexing and searching.
+            tokenize: (text) =>
+              Array.from(
+                new Intl.Segmenter("zh-CN", { granularity: "word" }).segment(text),
+              )
+                .filter(({ isWordLike }) => isWordLike)
+                .map(({ segment }) => segment),
+          },
+        },
+        translations: {
+          button: {
+            buttonText: "搜索",
+            buttonAriaLabel: "搜索文档",
+          },
+          modal: {
+            displayDetails: "显示详细列表",
+            resetButtonTitle: "清除搜索",
+            backButtonTitle: "关闭搜索",
+            noResultsText: "没有找到相关结果",
+            footer: {
+              selectText: "选择",
+              selectKeyAriaLabel: "回车键",
+              navigateText: "切换",
+              navigateUpKeyAriaLabel: "上箭头",
+              navigateDownKeyAriaLabel: "下箭头",
+              closeText: "关闭",
+              closeKeyAriaLabel: "Esc 键",
+            },
+          },
+        },
+      },
+    },
     repo: "EdgelessPE/Edgeless",
     docsRepo: "https://github.com/EdgelessPE/edgeless-wiki-kernel",
     docsBranch: "master",
