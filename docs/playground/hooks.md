@@ -14,7 +14,7 @@ Edgeless 生命周期分为启动周期和结束周期，可以在 Edgeless 运�
 - `onDesktopShown`
 - `onBootFinished`
 
-![](https://cloud.edgeless.top/picbed/wiki/img/hooks.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/hooks.webp)
 
 ## 结束周期
 
@@ -27,7 +27,7 @@ Edgeless 生命周期分为启动周期和结束周期，可以在 Edgeless 运�
 1. 在 Edgeless 启动盘中新建文件夹，位置为`U盘:\Edgeless\Hooks`
 2. 编写脚本后将脚本放置于周期名称文件夹中，例如编写了需要在`onDiskFound`处运行的脚本，则将其放置在`U盘:\Edgeless\Hooks\onDiskFound`
 
-![](https://cloud.edgeless.top/picbed/wiki/img/015750.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/015750.webp)
 
 ## 注意事项
 

@@ -2,17 +2,17 @@
 ## 症状表现
 * 弹出红色告警弹窗：`警告：没有发现合法的Edgeless文件夹！请尝试重新拔插U盘！`
 
-![](https://cloud.edgeless.top/picbed/wiki/img/red-alert.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/red-alert.webp)
 
 * 提示内存错误（最常见）
 * 运行Chrome等高内存占用程序时程序崩溃
 * 无法对X分区进行读写或在读写过程中出错
 
-![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20191221164750.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20191221164750.webp)
 
 （图片来自内测群成员@ThreeAnd1☆）
 
-![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20191221164959.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/QQpic20191221164959.webp)
 
 （图片来自内测群成员@@汪凯在线）
 
