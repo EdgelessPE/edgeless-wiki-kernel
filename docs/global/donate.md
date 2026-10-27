@@ -40,9 +40,9 @@
 截至 2025.12.31 的 23：59，Edgeless 项目在 2025 年总计收到捐助 460.42 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20% 会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
 
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2025d1.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/2025d1.webp)
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2025d2.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/2025d2.webp)
 
 
 | 称呼   | 数额      | 日期       | 备注                                                                                                                                        |
@@ -97,9 +97,9 @@
 
 截至 2024.12.31 的 23：59，Edgeless 项目在 2024 年总计收到捐助 842.8 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20% 会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2024d1.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/2024d1.webp)
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2024d2.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/2024d2.webp)
 
 | 称呼   | 数额      | 日期       | 备注                                                                                                                                        |
 | ------ | --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -176,9 +176,9 @@
 
 截至 2023.12.31 的 23：59，Edgeless 项目在 2023 年总计收到捐助 531.85 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20% 会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2023d1.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/2023d1.webp)
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2023d2.png)
+![](https://cloud.edgeless.top/picbed/wiki/img/2023d2.webp)
 
 | 称呼   | 数额      | 日期       | 备注                                                                                 |
 | ------ | --------- | ---------- | ------------------------------------------------------------------------------------ |
@@ -260,9 +260,9 @@
 
 截至 2022.12.31 的 20：00，Edgeless 项目在 2022 年总计收到捐助 705.59 CNY，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260 CNY）部分的 20% 会捐赠给 Wimbuilder2 作者 slore，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算使用了正则匹配求和的 TypeScript 脚本，截图如下：
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2022d2.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/2022d2.webp)
 
-![](https://cloud.edgeless.top/picbed/wiki/img/2022d1.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/2022d1.webp)
 
 | 称呼          | 数额      | 日期       | 备注                                                                                                   |
 | ------------- | --------- | ---------- | ------------------------------------------------------------------------------------------------------ |
@@ -357,9 +357,9 @@
 
 > 说明：由于 12 月在准备考研，因此捐赠榜单停更了一会，给 slore 捐赠之后想起来有几天的忘记记录了，补录了一下然后补上了差价
 
-![](https://cloud.edgeless.top/picbed/wiki/img/donate2021.jpg)
-![](https://cloud.edgeless.top/picbed/wiki/img/donate2021_wechat_1.jpg)
-![](https://cloud.edgeless.top/picbed/wiki/img/donate2021_wechat_2.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/img/donate2021.webp)
+![](https://cloud.edgeless.top/picbed/wiki/img/donate2021_wechat_1.webp)
+![](https://cloud.edgeless.top/picbed/wiki/img/donate2021_wechat_2.webp)
 
 | 称呼        | 数额       | 日期       | 备注                                                                          |
 | ----------- | ---------- | ---------- | ----------------------------------------------------------------------------- |
@@ -462,12 +462,12 @@
 ### 2020 年末清算：
 
 截至 2020.12.31 的 23：23，Edgeless 项目总计收到捐助 610.44RMB，根据 Edgeless 团队的捐助条款，超出服务器和域名支出（260RMB）部分的 20% 会捐赠给 2.x 版本内核作者 2012919497149，20% 会捐赠给 3.x 版本内核制作工具提供者 slore，其中 2012919497149 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=376688](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=376688) ，slore 的收款二维码页面来源为 [http://bbs.wuyou.net/forum.php?mod=viewthread&amp;tid=411399](http://bbs.wuyou.net/forum.php?mod=viewthread&tid=411399) ；计算和捐赠截图如下：
-![](https://cloud.edgeless.top/picbed/wiki/images/1_1609428798951.jpg)
-![](https://cloud.edgeless.top/picbed/wiki/images/2.jpg)
-![](https://cloud.edgeless.top/picbed/wiki/images/3.jpg)
-![](https://cloud.edgeless.top/picbed/wiki/images/Screenshot_2020-12-31-23-27-13-569_com.tencent.mm.jpg)
-![](https://cloud.edgeless.top/picbed/wiki/images/Screenshot_2020-12-31-23-28-55-457_com.tencent.mm.jpg)
-![](https://cloud.edgeless.top/picbed/wiki/images/Screenshot_2020-12-31-23-29-02-144_com.tencent.mm.jpg)
+![](https://cloud.edgeless.top/picbed/wiki/images/1_1609428798951.webp)
+![](https://cloud.edgeless.top/picbed/wiki/images/2-jpg.webp)
+![](https://cloud.edgeless.top/picbed/wiki/images/3-jpg.webp)
+![](https://cloud.edgeless.top/picbed/wiki/images/Screenshot_2020-12-31-23-27-13-569_com.tencent.mm.webp)
+![](https://cloud.edgeless.top/picbed/wiki/images/Screenshot_2020-12-31-23-28-55-457_com.tencent.mm.webp)
+![](https://cloud.edgeless.top/picbed/wiki/images/Screenshot_2020-12-31-23-29-02-144_com.tencent.mm.webp)
 
 此外，由于我们不再使用 2012919497149 提供的内核，因此在 2021 年的 Edgeless 团队捐赠中去除了对 2.x 版本内核作者 2012919497149 的捐赠，依旧感谢 2012919497149 大佬的辛苦付出！
 

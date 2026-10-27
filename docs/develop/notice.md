@@ -20,6 +20,6 @@ Edgeless文字可以不经授权使用，Edgeless图标（earth字体）需要�
 
 Edgeless图标（背景白色前景黑色）：
 
-![](https://cloud.edgeless.top/picbed/wiki/images/logo.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/logo.webp)
 
 2019.02.19

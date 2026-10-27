@@ -16,25 +16,25 @@
 
 以DiskGenius为例，这是目前拥有的文件↓
 
-![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783415246.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783415246.webp)
 
 1. 新建一个文件夹，名称为`DiskGenius`，将上面的文件放进这个文件夹中
 
-![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783498512.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783498512.webp)
 
 2. 新建一个文本文档，重命名为`DiskGenius.wcs`（注意：这一步需要打开系统资源管理器的显示后缀名！）
 
-![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783585372.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783585372.webp)
 
 3. 使用记事本打开`DiskGenius.wcs`，输入以下命令并保存：
 
 `LINK X:\Users\Default\Desktop\DiskGenius,%ProgramFiles%\Edgeless\DiskGenius\DiskGenius.exe`
 
-![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783680651.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783680651.webp)
 
 1. 将`DiskGenius`和`DiskGenius.wcs`添加到7z压缩文件并按照`名称_版本号_打包者.7z`命名即可完成DiskGenius插件包的制作
 
-![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783771844.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783771844.webp)
 
 
 :::tip 没看懂？

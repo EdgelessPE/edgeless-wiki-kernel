@@ -1,5 +1,5 @@
-import fs from "fs"
-import path from "path"
+const fs = require("node:fs")
+const path = require("node:path")
 
 function main(){
     const textPath=path.join(__dirname,"..","docs","global","donate.md")

@@ -20,7 +20,7 @@
 * 一个文件夹（包含目标程序及其需要的文件）
 * 一个.cmd或.wcs脚本（即**外置批处理**，用于执行绿化安装操作）
 
-![](https://cloud.edgeless.top/picbed/wiki/images/picture13.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/picture13.webp)
 
 ## 插件包命名规范
 新上架的插件包名称格式统一为`名称_版本号_打包者.7z`，例如：`我的 绿色软件-测试版_1.0.0.0_卡诺.7z`
@@ -147,7 +147,7 @@ exit
 
 **注意要将外置批处理暴露在压缩包根目录！**
 
-![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783771844.png)
+![](https://cloud.edgeless.top/picbed/wiki/images/screenshot_1579783771844.webp)
 
 :::warning 注意
 1. 外置批处理被设计为一次性使用的脚本，在完成其使命后将会被移动到“安装程序”文件夹内。因此，请不要依赖外置批处理进行安装（绿化）外的其他操作
@@ -181,16 +181,16 @@ HOTK #121,%ProgramFiles%\Edgeless\Orderdrv\orderdrv.cmd        `F10 理顺盘符
 ## 开发案例
 首先，网上冲浪找到了优化版Internet Download Manager，执行Step1，发现可直接运行。
 
-![](https://cloud.edgeless.top/picbed/wiki/browser/plugin114.png)
+![](https://cloud.edgeless.top/picbed/wiki/browser/plugin114.webp)
 
 
 接下来，执行Step2。将内容进行精简，顺便替换自带图标（可选）。
 
-![](https://cloud.edgeless.top/picbed/wiki/browser/plugin1145.png)
+![](https://cloud.edgeless.top/picbed/wiki/browser/plugin1145.webp)
 
 返回上级目录，编写外置批处理xxx.wcs
 
-![](https://cloud.edgeless.top/picbed/wiki/browser/plugin11451.png)
+![](https://cloud.edgeless.top/picbed/wiki/browser/plugin11451.webp)
 其中
 
 ```
@@ -214,7 +214,7 @@ exec =!%ProgramFiles%\Edgeless\Internet Download Manager\!绿化.bat
 
 将Internet Download Manager.wcs和Internet Download Manager文件夹压缩为7z并按照`名称_版本号_打包者.7z` 命名，即可完成Internet Download Manager插件包的制作
 
-![](https://cloud.edgeless.top/picbed/wiki/browser/plugin114514.png)
+![](https://cloud.edgeless.top/picbed/wiki/browser/plugin114514.webp)
 
 :::tip 提醒
 完成插件包的制作后不要忘记在Edgeless中测试哦
