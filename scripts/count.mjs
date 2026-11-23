@@ -1,8 +1,7 @@
-const fs = require("node:fs")
-const path = require("node:path")
+import fs from "node:fs"
 
 function main(){
-    const textPath=path.join(__dirname,"..","docs","global","donate.md")
+    const textPath=new URL("../docs/global/donate.md", import.meta.url)
     const text=fs.readFileSync(textPath).toString()
     const matches=text.match(/￥ [\d\.]+\s*/g)
     if(matches){

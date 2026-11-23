@@ -14,7 +14,8 @@
   "scripts": {
     "dev": "vitepress dev docs --port 5175",
     "build": "vitepress build docs",
-    "count": "node scripts/count.cjs"
+    "count": "node scripts/count.mjs",
+    "check:donations": "node scripts/check-donations.mjs"
   },
   "dependencies": {
     "vite": "^5.4.21",

@@ -1,0 +1,36 @@
+name: Donation order
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check-donations:
+    name: Check donation order
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      # 始终返回检查状态，避免作为必过项时未修改捐赠列表的 PR 一直等待。
+      - name: Detect donation changes
+        id: changes
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+        run: |
+          changed=$(git diff --name-only "$BASE_SHA...$HEAD_SHA" -- docs/global/donate.md scripts/check-donations.mjs .github/workflows/check-donations.yml)
+          if [ -n "$changed" ]; then
+            echo "donations=true" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/setup-node@v7
+        if: steps.changes.outputs.donations == 'true'
+        with:
+          node-version: 24
+          package-manager-cache: false
+      - name: Check latest donation year
+        if: steps.changes.outputs.donations == 'true'
+        run: node scripts/check-donations.mjs
